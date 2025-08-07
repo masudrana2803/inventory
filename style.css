@@ -65,3 +65,14 @@ label {
     margin-top: 10px;
     transition: background-color 0.3s ease;
 }
+
+.inventoryList{
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.inventoryList p{
+    margin: 5px 0;
+}
